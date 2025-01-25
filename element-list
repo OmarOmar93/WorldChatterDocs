@@ -1,0 +1,11 @@
+WorldChatterCore.API
+WorldChatterCore.Channels
+WorldChatterCore.Connectors.InterfaceConnectors
+WorldChatterCore.Connectors.Interfaces
+WorldChatterCore.Features
+WorldChatterCore.Others
+WorldChatterCore.Packets
+WorldChatterCore.Packets.Sound
+WorldChatterCore.Packets.Sound.Sounds
+WorldChatterCore.Players
+WorldChatterCore.Systems
